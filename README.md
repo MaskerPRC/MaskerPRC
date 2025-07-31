@@ -8,15 +8,6 @@
 
 ---
 
-## 🛠 技术栈
-
-**AI 开发** | Cursor • Claude • ChatGPT • Copilot • v0.dev • Bolt.new  
-**前端** | Vue.js • React • Next.js • Nuxt.js • TypeScript • Tailwind CSS • Element Plus  
-**后端** | Node.js • Python • FastAPI • Express • NestJS • Supabase • Firebase  
-**部署** | Vercel • Netlify • Railway • Render • Cloudflare • AWS • Zeabur  
-
----
-
 ## 📊 GitHub 统计
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaskerPRC&show_icons=true&include_all_commits=true&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
