@@ -20,7 +20,6 @@
 ## 📊 GitHub 统计
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaskerPRC&show_icons=true&include_all_commits=true&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaskerPRC&locale=cn)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaskerPRC&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
