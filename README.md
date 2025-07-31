@@ -8,6 +8,9 @@
 
 ---
 
+## 100个产品挑战
+[一年100个AI产品挑战](https://100.agitao.net/)
+
 ## 📊 GitHub 统计
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaskerPRC&show_icons=true&include_all_commits=true&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
