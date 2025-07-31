@@ -8,25 +8,6 @@
 
 ---
 
-## 🚀 2025 · 100 个 AI 产品挑战
-
-<p align="center">
-  <!-- 进度条（4/100，300px 宽，蓝色）-->
-  <a href="#-2025--100-个-ai-产品挑战">
-    <img src="https://progress-bar.xyz/4/?scale=100&suffix=%20completed&width=300&color=0d99ff&title=Challenge%20Progress" alt="Challenge Progress"/>
-  </a><br/>
-  <img src="https://img.shields.io/badge/已启动项目-25-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/平均进度-71%25-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/已完成-4-green?style=for-the-badge"/>
-</p>
-
-> **为什么要做 100 个产品？**  
-> • **技术红利** —— LLM 推动“软件超级高产时代”。  
-> • **个人突破** —— 从灵感到上线的完整闭环实践。  
-> • **过程透明** —— 全程公开构思、开发、上线与复盘。
-
----
-
 ## 🛠 技术栈
 
 **AI 开发** | Cursor • Claude • ChatGPT • Copilot • v0.dev • Bolt.new  
