@@ -28,17 +28,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Brief | Stars |
-| ------- | ----- | :---: |
-| [VueShark](https://github.com/MaskerPRC/vueshark) | Modern Wireshark-alternative packet analyser (Electron + Vue) | 25⭐ |
-| [PMAtron](https://github.com/MaskerPRC/pmatron) | php-wasm powered **MySQL GUI** desktop client | 58⭐ |
-| [Auto VL Spider](https://github.com/MaskerPRC/auto-vl-spider) | Multimodal-LLM generates web-scraping scripts automatically | 20⭐ |
-| [Hosts Master](https://github.com/MaskerPRC/hosts-master) | Cross-platform hosts file manager with Git-style branches | 6⭐ |
-
----
-
 ## 🛠️ Tech Stack
 
 **AI Dev** | Cursor • Claude • ChatGPT • GitHub Copilot • v0.dev • Bolt.new  
