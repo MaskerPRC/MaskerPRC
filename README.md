@@ -25,7 +25,7 @@
 | 手机 | +86 130-2289-8959 |
 
 ## 👀欢迎加入微信交流群
-![100个AI产品交流群](https://github.com/user-attachments/assets/c92c830c-5422-464d-a516-c86656a15188)
+![100个AI产品交流群](https://proxy.agitao.me/img)
 
 
 > “这 100 个小软件，是我与时代的对话。或许不完美，但每一个都是诚挚的尝试。” — MaskerPRC
